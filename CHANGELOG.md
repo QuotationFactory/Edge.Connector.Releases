@@ -1,3 +1,7 @@
+## 0.0.1-beta.22 - 2026-01-22
+### Fixed
+- tagSource userSpecifiedTag in github release task
+
 ## 0.0.1-beta.21 - 2026-01-22
 ### Fixed
 - removes target parameter from github release task
