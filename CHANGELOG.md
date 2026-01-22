@@ -1,3 +1,7 @@
+## 0.0.1-beta.23 - 2026-01-22
+### Fixed
+- fix build in release mode
+
 ## 0.0.1-beta.22 - 2026-01-22
 ### Fixed
 - tagSource userSpecifiedTag in github release task
