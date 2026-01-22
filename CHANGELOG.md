@@ -1,0 +1,56 @@
+## 0.0.1-beta.20 - 2026-01-21
+### Fixed
+- should not create a new branch in the releases repo
+
+## 0.0.1-beta.19 - 2026-01-21
+### Fixed
+- using PAT to interact with github repo.
+
+## 0.0.1-beta.18 - 2026-01-21
+### Fixed
+- push changelog to GitHub Releases repository
+
+## 0.0.1-beta.17 - 2026-01-21
+### Fixed
+- changes tagSource argument to use GitHub Releases
+
+## 0.0.1-beta.16 - 2026-01-21
+### Fixed
+- Split release for beta and stable versions
+
+## 0.0.1-beta.15 - 2026-01-21
+### Fixed
+- Fix makeLatest argument flag
+
+## 0.0.1-beta.13 - 2026-01-21
+### Fixed
+- Fix GitHub repo name
+
+## 0.0.1-beta.12 - 2026-01-21
+### Fixed
+- Not using github release changelog extraction
+
+## 0.0.1-beta.11 - 2026-01-21
+### Fixed
+- Using single file publish only for the installer
+
+## 0.0.1-beta.9 - 2026-01-21
+### Fixed
+- Github Releases
+
+## 0.0.1-beta.8 - 2026-01-21
+### Fixed
+- Single file publish output
+
+## 0.0.1-beta.7 - 2026-01-21
+### Fixed
+- GitHub Releases
+
+## 0.0.1-beta.6 - 2026-01-21
+### Fixed
+- Versioning format in change log file
+
+## 0.0.1-beta.1 - 2026-01-21
+### Added
+- Elsa workflow integration first release
+- Using Github Releases for deployment artifacts
