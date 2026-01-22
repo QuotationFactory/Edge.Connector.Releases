@@ -1,3 +1,7 @@
+## 0.0.1-beta.21 - 2026-01-22
+### Fixed
+- removes target parameter from github release task
+
 ## 0.0.1-beta.20 - 2026-01-21
 ### Fixed
 - should not create a new branch in the releases repo
