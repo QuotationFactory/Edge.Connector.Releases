@@ -1,3 +1,7 @@
+## 0.0.1-beta.24 - 2026-01-22
+### Fixed
+- adds target: master
+
 ## 0.0.1-beta.23 - 2026-01-22
 ### Fixed
 - fix build in release mode
