@@ -1,3 +1,7 @@
+## 0.0.1-beta.25 - 2026-01-23
+### Fixed
+- Fixes for EdgeConnector Installer
+
 ## 0.0.1-beta.24 - 2026-01-22
 ### Fixed
 - adds target: master
