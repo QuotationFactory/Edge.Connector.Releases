@@ -1,3 +1,7 @@
+## 0.0.1-beta.27 - 2026-01-23
+### Fixed
+- Fix validation if installer is latest version
+
 ## 0.0.1-beta.26 - 2026-01-23
 ### Fixed
 - Download and execute latest installer version
