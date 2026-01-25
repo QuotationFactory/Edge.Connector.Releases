@@ -1,3 +1,7 @@
+## 0.0.1-beta.26 - 2026-01-23
+### Fixed
+- Download and execute latest installer version
+
 ## 0.0.1-beta.25 - 2026-01-23
 ### Fixed
 - Fixes for EdgeConnector Installer
