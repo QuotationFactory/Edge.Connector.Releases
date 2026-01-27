@@ -1,3 +1,7 @@
+## 0.0.1-beta.29 - 2026-01-27
+### Fixed
+- Improve UX of EdgeConnector Installer in multiple places
+
 ## 0.0.1-beta.28 - 2026-01-27
 ### Fixed
 - Improve UX of EdgeConnector Installer
