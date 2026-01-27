@@ -1,3 +1,7 @@
+## 0.0.1-beta.31 - 2026-01-27
+### Fixed
+- Fix build intermitent fail
+
 ## 0.0.1-beta.30 - 2026-01-27
 ### Fixed
 - Improve UX of EdgeConnector Installer in multiple places
