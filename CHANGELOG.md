@@ -1,3 +1,7 @@
+## 0.0.1-beta.28 - 2026-01-27
+### Fixed
+- Improve UX of EdgeConnector Installer
+
 ## 0.0.1-beta.27 - 2026-01-23
 ### Fixed
 - Fix validation if installer is latest version
