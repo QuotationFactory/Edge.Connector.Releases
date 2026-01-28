@@ -1,3 +1,7 @@
+## 0.0.1-beta.35 - 2026-01-27
+### Fixed
+- Manage ElsaServer Users
+
 ## 0.0.1-beta.33 - 2026-01-27
 ### Fixed
 - Fix format in ShowUrls method.
