@@ -1,3 +1,7 @@
+## 0.0.1-beta.33 - 2026-01-27
+### Fixed
+- Fix format in ShowUrls method.
+
 ## 0.0.1-beta.32 - 2026-01-27
 ### Fixed
 - Using existing configuration params as default for updates
