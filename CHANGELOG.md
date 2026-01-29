@@ -1,3 +1,7 @@
+## 0.0.1-beta.39 - 2026-01-27
+### Fixed
+- Removes --no-restore from dotnet publish command in azure-pipeline-github-releases.yaml
+
 ## 0.0.1-beta.37 - 2026-01-27
 ### Fixed
 - Adds --runtime parameter to azure-pipeline.yaml
