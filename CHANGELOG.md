@@ -1,3 +1,7 @@
+## 0.0.1-beta.37 - 2026-01-27
+### Fixed
+- Adds --runtime parameter to azure-pipeline.yaml
+
 ## 0.0.1-beta.36 - 2026-01-27
 ### Fixed
 - Fixes for build pipeline
