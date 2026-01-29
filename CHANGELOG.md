@@ -1,6 +1,6 @@
-## 0.0.1-beta.39 - 2026-01-27
+## 0.0.1-beta.40 - 2026-01-27
 ### Fixed
-- Removes --no-restore from dotnet publish command in azure-pipeline-github-releases.yaml
+- Adds dotnet workload install wasm-tools to pipeline
 
 ## 0.0.1-beta.37 - 2026-01-27
 ### Fixed
