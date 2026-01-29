@@ -1,3 +1,7 @@
+## 0.0.1-beta.36 - 2026-01-27
+### Fixed
+- Fixes for build pipeline
+
 ## 0.0.1-beta.35 - 2026-01-27
 ### Fixed
 - Manage ElsaServer Users
