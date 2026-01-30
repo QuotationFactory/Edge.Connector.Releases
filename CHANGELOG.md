@@ -1,3 +1,7 @@
+## 0.0.1-beta.45 - 2026-01-30
+### Fixed
+- Fix Elsa SQLite database path resolution when running as Windows service (resolves "no such table: Roles" error)
+
 ## 0.0.1-beta.44 - 2026-01-30
 ### Improved
 - Optimize installer extraction by extracting directly to destination instead of temp folder
