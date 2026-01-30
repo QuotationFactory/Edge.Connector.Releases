@@ -1,3 +1,7 @@
+## 0.0.1-beta.44 - 2026-01-30
+### Improved
+- Optimize installer extraction by extracting directly to destination instead of temp folder
+
 ## 0.0.1-beta.43 - 2026-01-30
 ### Fixed
 - Exit installer immediately on Ctrl+C instead of waiting indefinitely
