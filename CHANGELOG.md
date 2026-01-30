@@ -1,3 +1,7 @@
+## 0.0.1-beta.42 - 2026-01-30
+### Fixed
+- Add spinner to URL health checks in installer to improve UX feedback
+
 ## 0.0.1-beta.41 - 2026-01-30
 ### Adds
 - Firewall configuration
