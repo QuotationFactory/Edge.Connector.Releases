@@ -1,3 +1,7 @@
+## 0.0.1-beta.43 - 2026-01-30
+### Fixed
+- Exit installer immediately on Ctrl+C instead of waiting indefinitely
+
 ## 0.0.1-beta.42 - 2026-01-30
 ### Fixed
 - Add spinner to URL health checks in installer to improve UX feedback
