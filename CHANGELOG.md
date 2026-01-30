@@ -1,3 +1,8 @@
+## 0.0.1-beta.41 - 2026-01-30
+### Adds
+- Firewall configuration
+- HTTPS configuration
+
 ## 0.0.1-beta.40 - 2026-01-27
 ### Fixed
 - Adds dotnet workload install wasm-tools to pipeline
