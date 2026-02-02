@@ -1,3 +1,12 @@
+## 0.0.1-beta.49 - 2026-02-02
+### Added
+ - Splits server and user databases files
+
+## 0.0.1-beta.47 - 2026-01-30
+### Added
+- Fix branding of WorkflowServer and WorkflowStudio
+- Copying files from installer directory instead of downloading it.
+
 ## 0.0.1-beta.45 - 2026-01-30
 ### Fixed
 - Fix Elsa SQLite database path resolution when running as Windows service (resolves "no such table: Roles" error)
