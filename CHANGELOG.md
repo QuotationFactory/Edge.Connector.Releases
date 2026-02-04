@@ -1,3 +1,7 @@
+## 0.0.1-beta.54 - 2026-02-04
+### Fix
+ - Fix HTTPs support
+
 ## 0.0.1-beta.53 - 2026-02-03
 ### Fix
  - Fix startup problem
