@@ -1,3 +1,7 @@
+## 0.0.1-beta.53 - 2026-02-03
+### Fix
+ - Fix startup problem
+
 ## 0.0.1-beta.52 - 2026-02-03
 ### Added
  - Restart Service menu item
