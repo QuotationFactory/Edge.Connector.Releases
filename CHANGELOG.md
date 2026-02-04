@@ -1,3 +1,7 @@
+## 0.0.1-beta.55 - 2026-02-04
+### Added
+ - Option to create desktop shortcuts after successful installation (Edge Connector Setup and Workflow Studio)
+
 ## 0.0.1-beta.54 - 2026-02-04
 ### Fix
  - Fix HTTPs support
