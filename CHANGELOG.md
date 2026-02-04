@@ -1,3 +1,9 @@
+## 0.0.1-beta.56 - 2026-02-04
+### Added
+ - Display installer version and installed version on welcome screen
+### Fixed
+ - Fix installed version not updating after returning to main menu from successful installation
+
 ## 0.0.1-beta.55 - 2026-02-04
 ### Added
  - Option to create desktop shortcuts after successful installation (Edge Connector Setup and Workflow Studio)
