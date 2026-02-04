@@ -1,3 +1,11 @@
+## 0.0.1-beta.52 - 2026-02-03
+### Added
+ - Restart Service menu item
+ - Open logs
+### Fix
+ - Menu navigation
+ - Uninstall option in the main menu
+
 ## 0.0.1-beta.51 - 2026-02-03
 ### Fix
  - Better menu navigation after the installation is complete
