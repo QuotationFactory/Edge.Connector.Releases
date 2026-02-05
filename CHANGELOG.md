@@ -1,3 +1,13 @@
+## 0.0.1-beta.58 - 2026-02-04
+### Fixed
+ - Copy of the files when retrying installation
+
+## 0.0.1-beta.57 - 2026-02-04
+### Added
+ - Broker configuration will work only with existing brokers
+### Fixed
+ - Fix how passwords are maneged in configuration classes. Encrypting them when saving and decrypting when loading.
+
 ## 0.0.1-beta.56 - 2026-02-04
 ### Added
  - Display installer version and installed version on welcome screen
