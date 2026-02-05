@@ -1,3 +1,13 @@
+## 0.0.1-beta.59 - 2026-02-05
+### Improved
+ - Smart download retry: skip re-downloading if zip already exists and only extraction failed
+ - Backup/rollback: create backup before update and restore on failure
+ - File lock handling: detect locked files, show locking process, offer to terminate and retry
+ - Local copy: now copies both service and installer folders (was only copying service)
+### Fixed
+ - Local copy detection: use Directory.Exists instead of File.Exists
+ - Prevent copying over running installer when running from installation folder
+
 ## 0.0.1-beta.58 - 2026-02-04
 ### Fixed
  - Copy of the files when retrying installation
