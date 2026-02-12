@@ -1,3 +1,8 @@
+## 0.0.1-beta.60 - 2026-02-12
+### Improved
+ - Improved error handling and user feedback during installation failures
+ - Menu navigation to confirm configuration values before starting installation
+
 ## 0.0.1-beta.59 - 2026-02-05
 ### Improved
  - Smart download retry: skip re-downloading if zip already exists and only extraction failed
