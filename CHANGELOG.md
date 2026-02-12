@@ -1,3 +1,7 @@
+## 0.0.1-beta.62 - 2026-02-12
+### Improved
+ - Fix main menu loop
+
 ## 0.0.1-beta.61 - 2026-02-12
 ### Improved
  - Retry mechanism for failed backups.
