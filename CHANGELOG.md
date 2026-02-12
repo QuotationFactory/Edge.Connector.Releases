@@ -1,3 +1,7 @@
+## 0.0.1-beta.61 - 2026-02-12
+### Improved
+ - Retry mechanism for failed backups.
+
 ## 0.0.1-beta.60 - 2026-02-12
 ### Improved
  - Improved error handling and user feedback during installation failures
