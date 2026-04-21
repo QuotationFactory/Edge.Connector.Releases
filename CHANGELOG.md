@@ -1,3 +1,7 @@
+## 0.1.0-beta.4 - 2026-04-21
+### Changed
+    - Split single release ZIP into separate Service and Installer ZIPs. Installer downloads only the service ZIP for install/update; self-bootstrap downloads only the installer ZIP.
+
 ## 0.1.0-beta.3 - 2026-04-20
 ### Changed
     - Restructured installation layout: service files now live directly in the EdgeConnector folder, with installer and data as sibling folders under the base directory.
