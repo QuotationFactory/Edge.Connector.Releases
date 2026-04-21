@@ -1,3 +1,7 @@
+## 0.1.0-beta.8 - 2026-04-21
+### Added
+    - "Open Workflow Studio in browser" menu option.
+
 ## 0.1.0-beta.7 - 2026-04-21
 ### Changed
     - Reduced service stop settle time from 30s to 10s.
