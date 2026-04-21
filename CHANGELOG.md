@@ -1,3 +1,8 @@
+## 0.1.0-beta.7 - 2026-04-21
+### Changed
+    - Reduced service stop settle time from 30s to 10s.
+    - Fixed helper text color consistency in configuration prompts.
+
 ## 0.1.0-beta.6 - 2026-04-21
 ### Added
     - PowerShell one-liner install script (`install.ps1`) for quick setup from terminal.
