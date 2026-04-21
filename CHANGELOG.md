@@ -1,3 +1,12 @@
+## 0.1.0-beta.6 - 2026-04-21
+### Added
+    - PowerShell one-liner install script (`install.ps1`) for quick setup from terminal.
+    - New "Edit features and settings" menu option to reconfigure without reinstalling.
+### Changed
+    - Installed version now refreshes after install in the main menu.
+    - Declining uninstall or download now returns to main menu instead of exiting.
+    - Service is stopped before port configuration during installation.
+
 ## 0.1.0-beta.5 - 2026-04-21
 ### Changed
     - Installed version now refreshes after install in the main menu.
