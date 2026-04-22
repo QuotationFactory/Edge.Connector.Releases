@@ -1,3 +1,7 @@
+## 0.1.0-beta.10 - 2026-04-22
+### Changed
+    - Backup process
+
 ## 0.1.0-beta.9 - 2026-04-21
 ### Added
     - Serilog file logging for the installer — all console output is mirrored to `logs/installer-{date}.log`.
