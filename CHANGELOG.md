@@ -1,3 +1,13 @@
+## 0.1.0-beta.9 - 2026-04-21
+### Added
+    - Serilog file logging for the installer — all console output is mirrored to `logs/installer-{date}.log`.
+    - Progress messages throughout the update process so users can follow each step (asset lookup, version check, disk space, backup, download, extraction).
+    - "Connecting to download server..." spinner with 30-second connection timeout to prevent silent freezes.
+    - Log messages before download and extraction steps with version, asset, and path details.
+### Changed
+    - Download connection phase now shows a visible spinner instead of appearing frozen.
+    - Connection timeout reduced from 5 minutes to 30 seconds for the initial server contact; clear error on timeout.
+
 ## 0.1.0-beta.8 - 2026-04-21
 ### Added
     - "Open Workflow Studio in browser" menu option.
