@@ -1,3 +1,7 @@
+## 0.2.0-beta.1 - 2026-04-22
+### Changed
+    - Bumping version
+
 ## 0.1.0-beta.10 - 2026-04-22
 ### Changed
     - Backup process
@@ -48,9 +52,9 @@
 
 ## 0.1.0-beta.2 - 2026-04-20
 ### Added
-    - New Workflow Studio. 
+    - New Workflow Studio.
     - Installer improvements
 
 ## 0.1.0-beta.1 - 2026-04-13
 ### Added
-    - New Workflow Studio. 
+    - New Workflow Studio.
